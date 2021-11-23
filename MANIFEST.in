@@ -1,0 +1,2 @@
+recursive-include Patryk_Migaj/model *
+recursive-include Patryk_Migaj/service *
