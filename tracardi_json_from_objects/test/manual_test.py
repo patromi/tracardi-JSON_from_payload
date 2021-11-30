@@ -8,7 +8,7 @@ from tracardi_plugin_sdk.service.plugin_runner import run_plugin
 from tracardi_json_from_objects.plugin import ConvertAction
 
 init = {
-    "to_json": "event@id"
+    "to_json": "event@..."
 }
 payload = {}
 profile = Profile(id="profile-id")
