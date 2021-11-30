@@ -54,11 +54,11 @@ def register() -> Plugin:
         ),
         metadata=MetaData(
             name='To JSON',
-            desc='The purpose of this plugin is convert objects to JSON',
+            desc='This plugin converts objects to JSON',
             type='flowNode',
             width=200,
             height=100,
             icon='json',
-            group=["General"]
+            group=["Data processing"]
         )
     )
