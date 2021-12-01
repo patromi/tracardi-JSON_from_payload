@@ -1,2 +1,2 @@
-recursive-include Patryk_Migaj/model *
-recursive-include Patryk_Migaj/service *
+recursive-include tracardi_json_from_objects/model *
+recursive-include tracardi_json_from_objects/service *
