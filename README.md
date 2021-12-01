@@ -11,7 +11,7 @@ This node requires configuration.
 ## Example of action configuration
 
 ```json
-        {
+{
     "to_json": "event@id"
 }
 ```
