@@ -3,4 +3,4 @@ python -m twine upload dist/*
 
 rm -rf build
 rm -rf dist
-rm -rf Patryk_Migaj.egg-info
+rm -rf tracardi_json_from_objects.egg-info
